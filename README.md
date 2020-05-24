@@ -1,5 +1,5 @@
-# Pokemons API
-Pokémons API Rest pour le cours Angular 9
+# Pokemons API Rest
+
 
 Ce projet est une petite API Web développé avec Symfony5 et ApiPlatform, afin de proposer un backend pour le projet Angular de support du cours situé ici : https://cours.aesisoft.fr/Angular/
 
