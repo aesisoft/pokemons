@@ -5,8 +5,6 @@ Ce projet est une petite API Web développé avec Symfony5 et ApiPlatform, afin 
 Attention, cette API ne contient pas encore d'authentification, c'est la 1ère partie du projet. <br/>
 L'API sécurisé avec JWT se trouve ici : https://github.com/aesisoft/pokemonsJwt 
 
-___
-
 ## Prerequis
 
 Il est necessaire d'avoir un serveur Apache2 avec PHP de version minimum 7.2.<br/>
