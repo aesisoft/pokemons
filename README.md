@@ -25,7 +25,8 @@ Il faut également une base de données MySQL ou MariaDB et un client du type Ph
 4. Créer la base de données :
 
 ```Bash
-php bin/console doctrine:database:create
-php bin/console doctrine:migrations:migrate
-php bin/console doctrine:fixtures:load
+php bin/console doctrine:database:create 
+php bin/console make:migration 
+php bin/console doctrine:migrations:migrate 
+php bin/console doctrine:fixtures:load 
 ```
